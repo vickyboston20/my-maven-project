@@ -3,7 +3,7 @@
   <groupId>com.example</groupId>
   <artifactId>my-maven-project</artifactId>
   <packaging>jar</packaging>
-  <version>1.1-SNAPSHOT</version>
+  <version>1.1</version>
   <name>my-maven-project</name>
   <url>http://maven.apache.org</url>
   <distributionManagement>
@@ -40,7 +40,7 @@
     <connection>scm:git:https://github.com/vickyboston20/my-maven-project.git</connection>
     <developerConnection>scm:git:https://github.com/vickyboston20/my-maven-project.git</developerConnection>
     <url>https://github.com/vickyboston20/my-maven-project</url>
-  <tag>HEAD</tag>
+  <tag>1.1</tag>
   </scm>
 
   <dependencies>
