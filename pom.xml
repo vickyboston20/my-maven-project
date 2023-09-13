@@ -12,7 +12,7 @@
         <plugin>
             <groupId>org.apache.maven.plugins</groupId>
             <artifactId>maven-release-plugin</artifactId>
-            <version>3.0.4</version> <!-- Use the latest version -->
+            <version>3.0.0</version> <!-- Use the latest version -->
             <configuration>
                 <autoVersionSubmodules>true</autoVersionSubmodules>
                 <tagNameFormat>@{project.version}</tagNameFormat>
